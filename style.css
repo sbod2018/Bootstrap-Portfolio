@@ -1,0 +1,44 @@
+.navbar{
+    justify-content: space-evenly;
+    align-items: flex-end;
+}
+
+body{
+    background-color: azure;
+}
+
+ .col-sm-4{
+     background: cadetblue;
+     padding-left: 0px; 
+     padding-right: 0px;
+     text-align: center;
+     font-size: 35px;
+     
+}
+ 
+ .col-sm-8{
+     background: cornsilk;  
+     padding-left: 0px;
+     padding-right: 0px;
+     align-items: center;   
+
+ }
+
+ container{
+   align-items: center;
+ }
+ 
+
+    .card{
+        text-align: center;
+        background-color: lightsteelblue;
+        align-content: center;
+        margin: 200px 200px 200px 200px;
+    }
+
+    .footer{
+        background-color: lightslategray;
+        align-content: center;
+        
+        
+    }
