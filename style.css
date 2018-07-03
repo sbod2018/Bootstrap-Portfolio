@@ -7,6 +7,11 @@ body{
     background-color: azure;
 }
 
+.jumbotron{
+    text-align: center; 
+
+}
+
  .col-sm-4{
      background: cadetblue;
      padding-left: 0px; 
@@ -24,8 +29,8 @@ body{
 
  }
 
- container{
-   align-items: center;
+   .container{
+        align-items: center;
  }
  
 
@@ -42,3 +47,5 @@ body{
         
         
     }
+
+    
